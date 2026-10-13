@@ -1,0 +1,1 @@
+Modele pojazdów do gry.
